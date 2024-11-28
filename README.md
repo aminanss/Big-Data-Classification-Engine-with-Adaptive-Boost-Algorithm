@@ -1,0 +1,1 @@
+Under the supervision of Dr. Mohammad Bagher Shamsollahi, I developed a classification engine for large-scale data, with a particular focus on the Adaptive Boosting (AdaBoost) algorithm. This project aimed at enhancing classification performance by leveraging adaptive learning techniques to handle big data efficiently.
